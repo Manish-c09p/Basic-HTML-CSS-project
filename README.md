@@ -21,16 +21,12 @@ This project helped me practice **structuring a webpage**, adding **styles**, an
 
 Follow these steps to view the project on your local system:
 
-### **Step 1 — Clone the Repository**
 ```bash
+# Step 1 — Clone the Repository
 git clone https://github.com/Manish-c09p/Basic-HTML-CSS-project.git
 
-### **Step 2 — Navigate to the Project Folder**
+# Step 2 — Navigate to the Project Folder
 cd Basic-HTML-CSS-project
 
-### **Step 3 — Open in Browser**
-- Open the index.html file in your browser to view the webpage.
-
-## Live Demo 🌐
-- Check out the project live here:
-https://manish-c09p.github.io/Basic-HTML-CSS-project/
+# Step 3 — Open the Project in Browser
+Open the 'index.html' file in your browser to view the webpage.
