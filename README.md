@@ -30,19 +30,3 @@ cd Basic-HTML-CSS-project
 
 # Step 3 — Open the Project in Browser
 Open the 'index.html' file in your browser to view the webpage.
-
-Live Demo 🌐
-
-Basic HTML & CSS Project
-
-Learning Outcomes 📘
-
-Through this project, I learned:
-
-How to structure a webpage using HTML
-
-Applying CSS for styling, colors, and layouts
-
-Basics of responsive design for better UI
-
-Improved understanding of HTML elements and CSS selectors
